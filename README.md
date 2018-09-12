@@ -1,2 +1,2 @@
-# checkmycalories
+# cmc
 CMC
